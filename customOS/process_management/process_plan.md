@@ -1,0 +1,3 @@
+    System Calls: This is the API for the kernel. User programs cannot directly access hardware or kernel memory. When they need to perform a privileged action (like allocating memory or opening a file), they issue a system call. This involves triggering a software interrupt, which transfers control to the kernel to safely perform the task on the program's behalf.
+
+    Loading and Running The First User Program: The final step of this phase is to write the functionality to load an executable file (from an initial RAM disk for now) into a newly created virtual address space, set up its stack, and jump to its entry point in "user mode." Running a simple "hello world" program as the first user process is a massive milestone.
