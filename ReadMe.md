@@ -10,3 +10,6 @@ So this project is perfect who else is better to trust but oneself.
 
 [Starting_Date]
 June / 23 / 2025
+
+[External_Links]
+C recap: https://youtu.be/dTp0c41XnrQ?si=r2FUvGQrQBXXqdnX
