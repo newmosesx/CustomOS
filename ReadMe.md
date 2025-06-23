@@ -9,4 +9,4 @@ Just to realize that almost everything is being tracked or seen, not pointing fi
 So this project is perfect who else is better to trust but oneself.
 
 [Starting_Date]
-June / 22 / 2025
+June / 23 / 2025
