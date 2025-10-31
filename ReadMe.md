@@ -1,5 +1,6 @@
 [Mega_Project]
 The main objectives is to engineer an OS specifically built for me. But there will be a template / foundation for anyone to build theirs.
+(Actively researching, the concept before adding more files)
 
 
 [Trust_Issues]
