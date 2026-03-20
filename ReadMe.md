@@ -1,15 +1,8 @@
-[Mega_Project]
-The main objectives is to engineer an OS specifically built for me. But there will be a template / foundation for anyone to build theirs.
+[Project Status]
+Paused. Resuming in 2028
 (Actively researching, the concept before adding more files)
 
-
-[Trust_Issues]
-I got tired of using others, systems and software.
-Just to realize that almost everything is being tracked or seen, not pointing fingers but "Hey Google!".
-
-So this project is perfect who else is better to trust but oneself.
-
-[Starting_Date]
+[Starting Date]
 June / 23 / 2025
 
 [External_Links]
